@@ -3,15 +3,17 @@ html {
   margin: 0;
   padding: 0;
   background-color: white;
-
-
-
 }
 
 
 body {
   font-family: "Source Sans 3", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 
 .top-section-wrapper {
   overflow: hidden;
